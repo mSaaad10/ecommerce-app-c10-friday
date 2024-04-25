@@ -8,7 +8,7 @@ import 'package:ecommerce_app_c10_frida/domain/usecases/get_categories_usecase.d
 import 'package:ecommerce_app_c10_frida/presentation/ui/home/tabs/home_tab/brand_item_widget.dart';
 import 'package:ecommerce_app_c10_frida/presentation/ui/home/tabs/home_tab/category_item_widget.dart';
 import 'package:ecommerce_app_c10_frida/presentation/ui/home/tabs/home_tab/home_tab_view_model.dart';
-import 'package:ecommerce_app_c10_frida/presentation/ui/home/widgets/product_item_widget.dart';
+import 'package:ecommerce_app_c10_frida/presentation/ui/widgets/product_item_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
